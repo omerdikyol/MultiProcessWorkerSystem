@@ -25,7 +25,7 @@ This project demonstrates a multi-process system where a supervisor manages two 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MultiProcessWorkerSystem.git
+   git clone https://github.com/omerdikyol/MultiProcessWorkerSystem.git
    cd MultiProcessWorkerSystem
    ```
 2. Compile the programs:
